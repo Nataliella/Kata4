@@ -1,1 +1,1 @@
-# Kata4
+# Add project info
